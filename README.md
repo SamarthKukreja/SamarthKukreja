@@ -1,41 +1,39 @@
-# 👋 Hi, I'm Samarth Kukreja!  
-### 🚀 Machine Learning Engineer | AI Enthusiast | Open-Source Contributor  
+# Hi, I'm Samarth Kukreja 👋
 
-I am a **final-year B.Tech student at NIT Kurukshetra** passionate about **AI, NLP, and Computer Vision**. I have worked on **LLMs, Object Detection, Facial Recognition, and AI-powered automation**.  
+**Software Engineer at Perfecter.ai | Computer Engineering Graduate, NIT Kurukshetra**
 
-📍 **Current Focus:** Fine-tuning GPT models, AI pipelines, and ML model deployment.  
+I'm interested in building reliable AI systems across multimodal learning, computer vision, document intelligence, and efficient model inference.
 
----
+My work combines applied AI engineering with independent research, focusing on how models perform, generalize, and behave under real-world constraints.
 
-## 🛠️ Skills & Technologies  
-- **Programming:** Python, C/C++, Java, JavaScript, SQL  
-- **Machine Learning & AI:** Deep Learning, Computer Vision, NLP, LLMs  
-- **Frameworks & Tools:** TensorFlow, PyTorch, OpenCV, YOLO, Faster R-CNN, LangChain, Llama-Index  
+## 🔬 Research
 
----
+- **[Cross-Dataset Generalization in Deepfake Detection](https://www.researchsquare.com/article/rs-11236662/v1)** — Evaluating deepfake detection models across datasets and visual corruption conditions. | [Code](https://github.com/SamarthKukreja/deepfake-detection-cross-dataset)
 
-## 📌 Featured Projects  
+- **[DocVLM-Fingerprint](https://doi.org/10.5281/zenodo.21433621)** — Studying document vision-language model faithfulness under visual perturbations. | [Code](https://github.com/SamarthKukreja/DocVLM-Fingerprint)
 
-### 🔹 [Chat PDF – AI-Powered Document Chatbot](https://github.com/Sohm14/chat-pdf)  
-📄 AI chatbot to **interact with PDFs**, extracting key insights using **LangChain & OpenAI API**.  
+- **[Serverless ERP Framework](https://www.researchsquare.com/article/rs-11276542/v1)** — Designing and deploying a low-cost ERP framework for resource-constrained organizations.
 
-### 🔹 [Lunar Terrain Object Detection](https://github.com/Sohm14/object_detection)  
-🌙 Identifies **rocks & shadows on lunar surfaces** with **YOLOv5 Nano & Faster R-CNN**.  
+### ⚙️ Engineering
 
-### 🔹 [Sign Language Detection & Translation](https://github.com/Sohm14/ISL-Detection-And-Translation)
-🖐️ Real-time Indian Sign Language recognition using **MediaPipe & RandomForestClassifier**.  
-🔹 Converts **sign gestures into text & speech**.  
+- **[TinyServe](https://github.com/SamarthKukreja/tinyserve)** — A C++17 CPU inference engine for decoder-only transformer models.
+- **[Indian Sign Language Recognition](https://github.com/SamarthKukreja/ISL-Detection-And-Translation)** — Landmark-based recognition using MediaPipe and TensorFlow.
+- **[Lunar Terrain Object Detection](https://github.com/SamarthKukreja/object_detection)** — Rock and shadow detection using YOLOv5 and Faster R-CNN.
 
-### 🔹 [Facial Recognition Attendance System](https://github.com/Sohm14/Facial-Recognition-And-Attendance-System)  
-👨‍🎓 **98% accuracy** in student attendance marking using **OpenCV & Firebase**.  
+## 🛠️ Technical Skills
 
----
+**Languages:** Python, C++, Java, SQL, TypeScript
 
-## 📫 Connect With Me  
-💼 **LinkedIn:** [Samarth Kukreja](www.linkedin.com/in/samarth-kukreja-728020248)  
-🐙 **GitHub:** [samarthkukreja](https://github.com/Sohm14)  
-📧 **Email:** samarthkukreja2003@gmail.com  
+**AI & Machine Learning:** PyTorch, TensorFlow, Hugging Face Transformers, Computer Vision, Deep Learning, Multimodal AI
 
----
+**LLMs & Retrieval:** RAG, LangChain, LlamaIndex, OpenAI APIs, Gemini APIs
 
-⭐ **Feel free to explore my projects and reach out for collaborations!**  
+**Backend & Cloud:** FastAPI, Azure, AWS, MongoDB, Docker, GitHub Actions
+
+**Tools:** OpenCV, MediaPipe, Git
+
+## 📫 Connect With Me
+
+- 💼 **LinkedIn:** [Samarth Kukreja](https://www.linkedin.com/in/samarth-kukreja-728020248/)
+- 🐙 **GitHub:** [SamarthKukreja](https://github.com/SamarthKukreja)
+- 📧 **Email:** samarthkukreja2003@gmail.com
